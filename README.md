@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-![Project Logo or Screenshot (if applicable)](link_to_image_or_screenshot.png)
+![Project Logo or Screenshot
 
 ## Table of Contents
 - [Overview](#overview)
